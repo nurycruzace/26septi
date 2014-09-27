@@ -1,0 +1,2 @@
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppSwitch\AppSwitch\bin\Debug\AppSwitch.exe.config
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppSwitch\AppSwitch\obj\Debug\AppSwitch.csprojResolveAssemblyReference.cache

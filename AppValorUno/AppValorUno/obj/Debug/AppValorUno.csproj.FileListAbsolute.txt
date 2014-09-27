@@ -1,0 +1,5 @@
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppValorUno\AppValorUno\bin\Debug\AppValorUno.exe.config
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppValorUno\AppValorUno\bin\Debug\AppValorUno.exe
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppValorUno\AppValorUno\bin\Debug\AppValorUno.pdb
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppValorUno\AppValorUno\obj\Debug\AppValorUno.exe
+c:\users\lab104pc8\documents\visual studio 2012\Projects\AppValorUno\AppValorUno\obj\Debug\AppValorUno.pdb
